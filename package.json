@@ -2,7 +2,7 @@
   "name": "cse110genie",
   "version": "1.0.0",
   "description": "A project for CSE 110",
-  "main": "index.js",
+  "main": "genie.html",
   "scripts": {
   "build:js": "echo \"Building JS...\"",
   "build:css": "echo \"Building CSS...\"",
