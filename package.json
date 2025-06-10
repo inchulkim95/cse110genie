@@ -1,14 +1,15 @@
 {
   "name": "cse110genie",
   "version": "1.0.0",
-  "description": "genie",
-  "main": "genie.html",
+  "description": "A project for CSE 110",
+  "main": "index.js",
   "scripts": {
   "build:js": "echo \"Building JS...\"",
   "build:css": "echo \"Building CSS...\"",
   "build": "npm run build:js && npm run build:css"
-  },
+},
   "author": "Inchul me",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {}
 }
