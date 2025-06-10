@@ -1,9 +1,10 @@
 {
   "name": "cse110genie",
   "version": "1.0.0",
-  "description": "A project for CSE 110",
+  "description": "genie",
   "main": "index.js",
   "scripts": {
+    "build": "npm run build:js && npm run build:css",
     "start": "node index.js",
     "test": "echo \"No tests specified\" && exit 0"
   },
