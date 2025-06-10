@@ -4,9 +4,9 @@
   "description": "genie",
   "main": "genie.html",
   "scripts": {
-    "build:js": "your build:js command here",
-    "build:css": "your build:css command here",
-    "build": "npm run build:js && npm run build:css"
+  "build:js": "echo \"Building JS...\"",
+  "build:css": "echo \"Building CSS...\"",
+  "build": "npm run build:js && npm run build:css"
   },
   "author": "Inchul me",
   "license": "MIT",
