@@ -1,0 +1,13 @@
+{
+  "name": "cse110genie",
+  "version": "1.0.0",
+  "description": "A project for CSE 110",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
